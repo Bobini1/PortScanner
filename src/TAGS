@@ -1,16 +1,0 @@
-
-./ParseParams.hs,363
-module ParseParams(ParseParams0,1
-data PortSpec PortSpec6,7
-data PortSpec = Port Port6,7
-data PortSpec = Port PortNumber | Ports Ports6,7
-data AddrSpec AddrSpec7,8
-data AddrSpec = Address Address7,8
-data AddrSpec = Address HostName | CidrNetwork CidrNetwork7,8
-parsePorts parsePorts9,10
-parseAddrs parseAddrs20,21
-parseParams parseParams28,29
-
-./Lib.hs,42
-module LibLib0,1
-someFunc someFunc5,6
